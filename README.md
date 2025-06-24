@@ -78,7 +78,7 @@ If you want to see what WPML Pro can do, **using the nulled version is a safe wa
 
 ## How to Install WPML Multilingual CMS Nulled (2025 Edition)
 
-1. [Download the WPML Multilingual CMS 4.7.6 .zip file](#)
+1. [Download the WPML Multilingual CMS 4.7.6 .zip file](https://github.com/vanhelsing34/wpml-multilingual-plugin)
 2. Go to **WordPress Dashboard → Plugins → Add New**
 3. Click **Upload Plugin** and select your downloaded file
 4. Click **Install Now** and then **Activate**
